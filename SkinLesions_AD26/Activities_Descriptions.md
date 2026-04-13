@@ -136,6 +136,6 @@ Each seminar must be supported by a **weekly deliverable**, which may include:
 ---
 
 **Project Supervisor:**  
-[Your Name]  
-[Your Position]  
-[Institution]
+Atoany Nazareth Fierro Radilla, PhD    
+Full-Timme Professor    
+Tecnologic ode Monterrey    
